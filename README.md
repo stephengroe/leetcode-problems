@@ -10,4 +10,5 @@ I'll push solutions that work, but they may not all be optimized for time/space 
 
 | # | Problem | Difficulty | Language | Topics |
 | - | ------- | ---------- | -------- | ------ |
-| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | JavaScript | `string` `trie` |
+| 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | JavaScript | `string` `trie` |
+| 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) | Easy | JavaScript | `don't know why this exists` |
