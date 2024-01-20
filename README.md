@@ -1,2 +1,11 @@
-# leetcode-problems
-🤖 Solutions for programming practice problems on Leetcode
+# Leetcode Problems
+
+**Solutions to problems I solve on Leetcode**
+
+Problems on Leetcode are a kind of fun hobby. These are my solutions.
+
+I'll push solutions that work, but they may not all be optimized for time/space complexity.
+
+## Solutions
+
+| # | Problem | Difficulty | Language | Topics |
