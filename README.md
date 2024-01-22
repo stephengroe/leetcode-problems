@@ -11,6 +11,7 @@ I'll push solutions that work, but they may not all be optimized for time/space 
 | # | Problem | Difficulty | Language | Topics |
 | - | ------- | ---------- | -------- | ------ |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | JavaScript | `string` `trie` |
+| 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | Medium | JavaScript | `array` `binary search` `matrix` |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | JavaScript | `array` `dynamic programming` |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | JavaScript | `array` `hash table` `divide and conquer` `sorting` `counting` |
 | 0448 | [Find all Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | JavaScript | `array` `hash table` |
