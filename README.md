@@ -10,6 +10,7 @@ I'll push solutions that work, but they may not all be optimized for time/space 
 
 | # | Problem | Difficulty | Language | Topics |
 | - | ------- | ---------- | -------- | ------ |
+| 0001 |[Two Sum](https://leetcode.com/problems/two-sum/) | Easy | JavaScript | `array` `hash table` |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | JavaScript | `math` |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | JavaScript | `string` `trie` |
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | Medium | JavaScript | `array` `binary search` `matrix` |
