@@ -24,5 +24,6 @@ I'll push solutions that work, but they may not all be optimized for time/space 
 | 2057 | [Smallest Index with Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/) | Easy | JavaScript | `array` |
 | 2619 | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/) | Easy | JavaScript ||
 | 2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/) | Easy | JavaScript ||
-| 2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/) | Easy | JavaScript ||
+| 2634 | [Filter Elements From Array](https://leetcode.com/problems/filter-elements-from-array/) | Easy | JavaScript ||
 | 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) | Easy | JavaScript | |
+| 2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/) | Easy | JavaScript ||
