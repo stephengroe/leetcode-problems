@@ -26,5 +26,6 @@ I'll push solutions that work, but they may not all be optimized for time/space 
 | 2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/) | Easy | JavaScript ||
 | 2634 | [Filter Elements From Array](https://leetcode.com/problems/filter-elements-from-array/) | Easy | JavaScript ||
 | 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | Easy | JavaScript |
+| 2665 | [Counter II](https://leetcode.com/problems/counter-ii/) | Easy | JavaScript ||
 | 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) | Easy | JavaScript | |
 | 2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/) | Easy | JavaScript ||
