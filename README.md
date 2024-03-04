@@ -23,6 +23,7 @@ I'll push solutions that work, but they may not all be optimized for time/space 
 | 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | Easy | TypeScript | `array` `greedy` |
 | 2057 | [Smallest Index with Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/) | Easy | JavaScript | `array` |
 | 2619 | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/) | Easy | JavaScript ||
+| 2620 | [Counter](https://leetcode.com/problems/counter/) | Easy | JavaScript ||
 | 2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/) | Easy | JavaScript ||
 | 2634 | [Filter Elements From Array](https://leetcode.com/problems/filter-elements-from-array/) | Easy | JavaScript ||
 | 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | Easy | JavaScript |
