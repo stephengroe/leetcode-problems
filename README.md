@@ -1,10 +1,6 @@
-# Leetcode Problems
+# LeetCode Problems
 
-**Solutions to problems I solve on Leetcode**
-
-Problems on Leetcode are a kind of fun hobby. These are my solutions.
-
-I'll push solutions that work, but they may not all be optimized for time/space complexity.
+Solving problems with code is a fun hobby, and LeetCode has thousands to choose from! These are my solutions.
 
 ## Solutions
 
