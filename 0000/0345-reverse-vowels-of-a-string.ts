@@ -41,3 +41,30 @@ function reverseVowels2(s: string): string {
 
   return letters.join("");
 };
+
+// Second attempt using two pointers
+function reverseVowels(s: string): string {
+  const vowels = new Set<string>(['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']);
+  let letters = s.split("");
+  let left = 0;
+  let right = letters.length - 1;
+
+  while (left < right) {
+      if (vowels.has(letters[left])) {
+          if (vowels.has(letters[right])) {
+              // Swap left and right
+              const temp = letters[left];
+              letters[left] = letters[right];
+              letters[right] = temp;
+              left += 1;
+              right -= 1;
+          } else {
+              right -= 1;
+          }
+      } else {
+          left += 1;
+      }
+  }
+
+  return letters.join("");
+};
