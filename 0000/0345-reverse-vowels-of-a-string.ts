@@ -35,7 +35,8 @@ function reverseVowels2(s: string): string {
 
   for (let j=0; j<letters.length; j++) {
       if (vowels.has(letters[j])) {
-          letters[j] = reversedVowels.pop();
+        const vowel = reversedVowels.pop();
+        if (vowel !== undefined) letters[j] = vowel;
       }
   }
 
