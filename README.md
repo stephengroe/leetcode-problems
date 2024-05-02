@@ -8,6 +8,7 @@ Solving problems with code is a fun hobby, and LeetCode has thousands to choose 
 | - | ------- | ---------- | -------- | ------ |
 | 0001 |[Two Sum](https://leetcode.com/problems/two-sum/) | Easy | JavaScript | `array` `hash table` |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | JavaScript | `math` |
+| 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | TypeScript | `array` `two pointers` `greedy` |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | JavaScript | `string` `trie` |
 | 0068 | [Text Justification](https://leetcode.com/problems/text-justification/) | Hard | TypeScript | `array` `string` `simulation` |
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | Medium | JavaScript | `array` `binary search` `matrix` |
@@ -15,7 +16,7 @@ Solving problems with code is a fun hobby, and LeetCode has thousands to choose 
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | TypeScript | `two pointers` `string` |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | JavaScript | `array` `hash table` `divide and conquer` `sorting` `counting` |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | JavaScript | `array` `hash table` `sorting` |
-| 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | TypeScript | `array` `two pointers` |
+| 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | TypeScript | `array` `two pointers`|
 | 0345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | TypeScript | `string` `two pointers` |
 | 0448 | [Find all Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | JavaScript | `array` `hash table` |
 | 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | TypeScript | `array` `greedy` |
