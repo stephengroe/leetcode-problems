@@ -29,6 +29,7 @@ Solving problems with code is a fun hobby, and LeetCode has thousands to choose 
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | TypeScript | `array` `prefix sum`|
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | TypeScript | `two pointers` `string`|
 | 2057 | [Smallest Index with Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/) | Easy | JavaScript | `array` |
+| 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Easy | TypeScript | `array` `hash table` |
 | 2619 | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/) | Easy | JavaScript ||
 | 2620 | [Counter](https://leetcode.com/problems/counter/) | Easy | JavaScript ||
 | 2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/) | Easy | JavaScript ||
