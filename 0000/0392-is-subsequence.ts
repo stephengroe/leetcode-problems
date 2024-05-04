@@ -19,7 +19,7 @@ function isSubsequence1(s: string, t: string): boolean {
 };
 
 // Second solution, alternate version
-function isSubsequence(s: string, t: string): boolean {
+function isSubsequence2(s: string, t: string): boolean {
   let i = 0;
   let j = 0;
   let lengthS = s.length;
@@ -38,4 +38,20 @@ function isSubsequence(s: string, t: string): boolean {
   } else {
       return false;
   }
+};
+
+// Optimized version of second solution
+function isSubsequence3(s: string, t: string): boolean {
+  let i = 0;
+  let j = 0;
+
+  while (i < s.length && j < t.length) {
+      if (s[i] === t[j]) {
+          i += 1;
+      }
+
+      j += 1;
+  }
+
+  return i === s.length;
 };
