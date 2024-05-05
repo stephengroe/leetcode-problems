@@ -25,6 +25,7 @@ Solving problems with code is a fun hobby, and LeetCode has thousands to choose 
 | 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | TypeScript | `array` `hash table` `graph` |
 | 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | TypeScript | `array` `math` `divide and conquer` `geometry` `sorting` `heap (priority queue)` `quickselect` |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | Easy | TypeScript | `array` `greedy` |
+| 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | TypeScript | `array` `hash table` |
 | 1431 | [Kid With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy | TypeScript | `array` |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | TypeScript | `string` `sliding window` |
 | 1679 | [Max Number of K Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | Medium | TypeScript | `array` `hash table` `two pointers` `sorting` |
