@@ -1,5 +1,5 @@
 // First solution
-function removeStars(s: string): string {
+function removeStars1(s: string): string {
   let arr = s.split("");
   let result: string[] = [];
   let stars = 0;
@@ -15,4 +15,20 @@ function removeStars(s: string): string {
   }
 
   return result.reverse().join('');
+};
+
+// Second solution, with simpler stack logic
+function removeStars2(s: string): string {
+  let arr = s.split("");
+  let result: string[] = [];
+
+  for (let i=0; i<arr.length; i++) {
+      if (arr[i] === "*") {
+          result.pop();
+      } else {
+          result.push(arr[i]);
+      }
+  }
+
+  return result.join('');
 };
