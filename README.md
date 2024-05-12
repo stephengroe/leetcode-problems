@@ -7,6 +7,7 @@ Solving problems with code is a fun hobby, and LeetCode has thousands to choose 
 | # | Problem | Difficulty | Language | Topics |
 | - | ------- | ---------- | -------- | ------ |
 | 0001 |[Two Sum](https://leetcode.com/problems/two-sum/) | Easy | JavaScript | `array` `hash table` |
+| 0006 |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | TypeScript | `string` |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | JavaScript | `math` |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | TypeScript | `array` `two pointers` `greedy` |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | JavaScript | `string` `trie` |
