@@ -16,6 +16,7 @@ Solving problems with code is a fun hobby, and LeetCode has thousands to choose 
 | 0068 | [Text Justification](https://leetcode.com/problems/text-justification/) | Hard | TypeScript | `array` `string` `simulation` |
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | Medium | JavaScript | `array` `binary search` `matrix` |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | JavaScript | `array` `dynamic programming` |
+| 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | JavaScript | `two pointers` `string` |
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | TypeScript | `two pointers` `string` |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | JavaScript | `array` `hash table` `divide and conquer` `sorting` `counting` |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | JavaScript | `array` `hash table` `sorting` |
