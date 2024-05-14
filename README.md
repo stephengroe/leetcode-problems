@@ -24,6 +24,7 @@ Solving problems with code is a fun hobby, and LeetCode has thousands to choose 
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | TypeScript | `array` `two pointers`|
 | 0334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium | TypeScript | `array` `greedy` |
 | 0345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | TypeScript | `string` `two pointers` |
+| 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | TypeScript | `hash table` `string` `counting` |
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | TypeScript | `two pointers` `string` `dynamic programming` |
 | 0448 | [Find all Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | JavaScript | `array` `hash table` |
 | 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | TypeScript | `array` `greedy` |
