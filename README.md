@@ -19,6 +19,7 @@ Solving problems with code is a fun hobby, and LeetCode has thousands to choose 
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | JavaScript | `two pointers` `string` |
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | TypeScript | `two pointers` `string` |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | JavaScript | `array` `hash table` `divide and conquer` `sorting` `counting` |
+| 0202 | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | TypeScript | `hash table` `math` `two pointers` |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | JavaScript | `array` `hash table` `sorting` |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | TypeScript | `array` `prefix sum` |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | TypeScript | `array` `prefix sum` |
