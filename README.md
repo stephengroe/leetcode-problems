@@ -11,6 +11,7 @@ Solving problems with code is a fun hobby, and LeetCode has thousands to choose 
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | JavaScript | `math` |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | TypeScript | `array` `two pointers` `greedy` |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | JavaScript | `string` `trie` |
+| 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | TypeScript | `array` `two pointers` |
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | TypeScript | `two pointers` `string` `string matching` |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | Easy | TypeScript | `string` |
 | 0068 | [Text Justification](https://leetcode.com/problems/text-justification/) | Hard | TypeScript | `array` `string` `simulation` |
