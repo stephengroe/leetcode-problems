@@ -15,6 +15,7 @@ Solving problems with code is a fun hobby, and LeetCode has thousands to choose 
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | TypeScript | `array` `two pointers` |
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | TypeScript | `two pointers` `string` `string matching` |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | Easy | TypeScript | `string` |
+| 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | TypeScript | `array` `math` |
 | 0068 | [Text Justification](https://leetcode.com/problems/text-justification/) | Hard | TypeScript | `array` `string` `simulation` |
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | Medium | JavaScript | `array` `binary search` `matrix` |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | JavaScript | `array` `dynamic programming` |
