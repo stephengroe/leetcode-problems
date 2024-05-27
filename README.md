@@ -47,6 +47,7 @@ Solving problems with code is a fun hobby, and LeetCode has thousands to choose 
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | TypeScript | `array` `hash table` |
 | 1431 | [Kid With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy | TypeScript | `array` |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | TypeScript | `string` `sliding window` |
+| 1608 | [Special Array with X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | Easy | TypeScript | `array` `binary search` `sorting` |
 | 1679 | [Max Number of K Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | Medium | TypeScript | `array` `hash table` `two pointers` `sorting` |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | TypeScript | `array` `prefix sum`|
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | TypeScript | `two pointers` `string`|
