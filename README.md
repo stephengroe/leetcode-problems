@@ -46,6 +46,7 @@ Solving problems with code is a fun hobby, and LeetCode has thousands to choose 
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | Easy | TypeScript | `string` |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | TypeScript | `array` `hash table` |
 | 1208 | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/) | Medium | TypeScript | `string` `binary search` `sliding window` `prefix sum` |
+| 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium | TypeScript | `string` `bit manipulation` |
 | 1431 | [Kid With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy | TypeScript | `array` |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | TypeScript | `string` `sliding window` |
 | 1608 | [Special Array with X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | Easy | TypeScript | `array` `binary search` `sorting` |
