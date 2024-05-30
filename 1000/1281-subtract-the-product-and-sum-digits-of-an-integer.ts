@@ -22,3 +22,20 @@ function subtractProductAndSum2(n: number): number {
 
   return product - sum;
 };
+
+// Third solution, loop without getting length
+// Time: O(n), space: O(1)
+function subtractProductAndSum3(n: number): number {
+  let int = n;
+  let product = 1;
+  let sum = 0;
+
+  while (int > 0) {
+      let currentNum = int % 10;
+      product *= currentNum;
+      sum += currentNum;
+      int = Math.floor(int / 10);
+  }
+
+  return product - sum;
+};
