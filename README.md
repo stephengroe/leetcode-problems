@@ -49,6 +49,7 @@ Solving problems with code is a fun hobby, and LeetCode has thousands to choose 
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | TypeScript | `math` |
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium | TypeScript | `string` `bit manipulation` |
 | 1431 | [Kid With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy | TypeScript | `array` |
+| 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium | TypeScript | `array` `hash table` `math` `bit manipulation` `prefix sum` |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | TypeScript | `string` `sliding window` |
 | 1608 | [Special Array with X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | Easy | TypeScript | `array` `binary search` `sorting` |
 | 1679 | [Max Number of K Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | Medium | TypeScript | `array` `hash table` `two pointers` `sorting` |
