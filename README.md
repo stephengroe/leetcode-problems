@@ -72,3 +72,4 @@ Solving problems with code is a fun hobby, and LeetCode has thousands to choose 
 | 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) | Easy | JavaScript | |
 | 2704 | [To Be or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | Easy | JavaScript ||
 | 2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/) | Easy | JavaScript ||
+| 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | Easy | TypeScript | `string` |

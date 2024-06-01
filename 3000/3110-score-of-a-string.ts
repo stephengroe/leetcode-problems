@@ -1,0 +1,11 @@
+// First solution
+// Time: O(n), space: O(1)
+function scoreOfString(s: string): number {
+  let score = 0;
+
+  for (let i=0; i<s.length - 1; i++) {
+      score += Math.abs(s.charCodeAt(i) - s.charCodeAt(i + 1));
+  }
+
+  return score;    
+};
