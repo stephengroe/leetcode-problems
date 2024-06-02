@@ -32,6 +32,7 @@ Solving problems with code is a fun hobby, and LeetCode has thousands to choose 
 | 0260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | Medium | TypeScript | `array` `bit manipulation` |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | TypeScript | `hash table` `string` `sorting`|
 | 0334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium | TypeScript | `array` `greedy` |
+| 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | TypeScript | `string` `two pointers` |
 | 0345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | TypeScript | `string` `two pointers` |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | TypeScript | `hash table` `string` `counting` |
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | TypeScript | `two pointers` `string` `dynamic programming` |
