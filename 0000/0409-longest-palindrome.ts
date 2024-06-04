@@ -1,5 +1,5 @@
 // First solution, 2024-06-03 in 08:09
-// Time: O(n), space: O(n)
+// Time: O(n), space: O(1)
 function longestPalindrome(s: string): number {
   let tally = new Map<string, number>();
   let longest = 0;
