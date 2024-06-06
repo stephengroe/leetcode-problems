@@ -66,6 +66,7 @@ Solving problems with code is a fun hobby, and LeetCode has thousands to choose 
 | 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/s) | Medium | TypeScript | `array` `two pointers` `binary search` `sorting` |
 | 2390 | [Removing Stars from a String](https://leetcode.com/problems/removing-stars-from-a-string/) | Medium | TypeScript | `string` `stack` `simulation` |
 | 2486 | [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/) | Medium | TypeScript | `two pointers` `string` `greedy` |
+| 2605 | [Form Smallest Number from Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | Easy | TypeScript | `array` `hash table` `enumeration` |
 | 2619 | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/) | Easy | JavaScript ||
 | 2620 | [Counter](https://leetcode.com/problems/counter/) | Easy | JavaScript ||
 | 2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/) | Easy | JavaScript ||
