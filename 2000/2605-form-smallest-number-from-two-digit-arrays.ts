@@ -1,5 +1,5 @@
 // First solution, solved 2024-06-05 in 09:36
-// Time: O(n), space: O(n)
+// Time: O(n*log(n)), space: O(n)
 function minNumber(nums1: number[], nums2: number[]): number {
   let sorted1 = nums1.slice().sort();
   let sorted2 = nums2.slice().sort();
