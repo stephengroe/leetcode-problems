@@ -39,6 +39,7 @@ Solving problems with code is a fun hobby, and LeetCode has thousands to choose 
 | 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy | TypeScript | `hash table` `string` `greedy` |
 | 0448 | [Find all Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | JavaScript | `array` `hash table` |
 | 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | TypeScript | `array` `greedy` |
+| 0648 | [Replace Words](https://leetcode.com/problems/replace-words/) | Medium | TypeScript | `array` `hash table` `string` `trie` |
 | 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | TypeScript | `array` `prefix sum` |
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | Easy | TypeScript | `string` `string matching` |
 | 0846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | Medium | TypeScript | `array` `hash table` `greedy` `sorting` |
