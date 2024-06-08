@@ -38,6 +38,7 @@ Solving problems with code is a fun hobby, and LeetCode has thousands to choose 
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | TypeScript | `two pointers` `string` `dynamic programming` |
 | 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy | TypeScript | `hash table` `string` `greedy` |
 | 0448 | [Find all Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | JavaScript | `array` `hash table` |
+| 0523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | TypeScript | `array` `hash table` `math` `prefix sum` |
 | 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | TypeScript | `array` `greedy` |
 | 0648 | [Replace Words](https://leetcode.com/problems/replace-words/) | Medium | TypeScript | `array` `hash table` `string` `trie` |
 | 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | TypeScript | `array` `prefix sum` |
