@@ -4,7 +4,7 @@ I like solving problems with code, and LeetCode has thousands to choose from! Mo
 
 You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/).
 
-## 000-500
+## 000-499
 
 | # | Problem | Difficulty | Language | Topics |
 | - | ------- | ---------- | -------- | ------ |
@@ -41,7 +41,7 @@ You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/)
 | 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy | TypeScript | `hash table` `string` `greedy` |
 | 0448 | [Find all Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | JavaScript | `array` `hash table` |
 
-## 501-999
+## 500-999
 
 | # | Problem | Difficulty | Language | Topics |
 | - | ------- | ---------- | -------- | ------ |
@@ -110,7 +110,7 @@ You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/)
 | 2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/) | Easy | JavaScript ||
 | 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises/) | Medium | TypeScript ||
 
-## 3000-3500
+## 3000+
 
 | # | Problem | Difficulty | Language | Topics |
 | - | ------- | ---------- | -------- | ------ |
