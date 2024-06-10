@@ -1,5 +1,5 @@
 // First solution, solved 2024-06-09 in 02:23
-// Time: O(n), space: O(n)
+// Time: O(n log n), space: O(n)
 function heightChecker(heights: number[]): number {
   let expected = heights.slice().sort((a, b) => a - b);
   let result = 0;
