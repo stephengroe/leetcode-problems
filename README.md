@@ -1,6 +1,8 @@
 # LeetCode Problems
 
-Solving problems with code is a fun hobby, and LeetCode has thousands to choose from! These are my solutions.
+I like solving problems with code, and LeetCode has thousands to choose from! Most of these are daily challenges, with a few other random ones that interest me.
+
+You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/).
 
 ## 000-500
 
