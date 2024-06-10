@@ -2,7 +2,7 @@
 
 Solving problems with code is a fun hobby, and LeetCode has thousands to choose from! These are my solutions.
 
-## Solutions
+## 000-500
 
 | # | Problem | Difficulty | Language | Topics |
 | - | ------- | ---------- | -------- | ------ |
@@ -38,6 +38,11 @@ Solving problems with code is a fun hobby, and LeetCode has thousands to choose 
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | TypeScript | `two pointers` `string` `dynamic programming` |
 | 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy | TypeScript | `hash table` `string` `greedy` |
 | 0448 | [Find all Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | JavaScript | `array` `hash table` |
+
+## 501-999
+
+| # | Problem | Difficulty | Language | Topics |
+| - | ------- | ---------- | -------- | ------ |
 | 0523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | TypeScript | `array` `hash table` `math` `prefix sum` |
 | 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | TypeScript | `array` `greedy` |
 | 0648 | [Replace Words](https://leetcode.com/problems/replace-words/) | Medium | TypeScript | `array` `hash table` `string` `trie` |
@@ -47,6 +52,11 @@ Solving problems with code is a fun hobby, and LeetCode has thousands to choose 
 | 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | TypeScript | `array` `math` `divide and conquer` `geometry` `sorting` `heap (priority queue)` `quickselect` |
 | 0974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium | TypeScript | `array` `hash table` `prefix sum` |
 | 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | TypeScript | `array` `hash table` `graph` |
+
+## 1000-1499
+
+| # | Problem | Difficulty | Language | Topics |
+| - | ------- | ---------- | -------- | ------ |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | Easy | TypeScript | `array` `hash table` `string` |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | TypeScript | `array` `binary search` `sliding window` `prefix sum` |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | Easy | TypeScript | `array` `greedy` |
@@ -60,17 +70,32 @@ Solving problems with code is a fun hobby, and LeetCode has thousands to choose 
 | 1431 | [Kid With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy | TypeScript | `array` |
 | 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium | TypeScript | `array` `hash table` `math` `bit manipulation` `prefix sum` |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | TypeScript | `string` `sliding window` |
+
+## 1500-1999
+
+| # | Problem | Difficulty | Language | Topics |
+| - | ------- | ---------- | -------- | ------ |
 | 1608 | [Special Array with X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | Easy | TypeScript | `array` `binary search` `sorting` |
 | 1679 | [Max Number of K Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | Medium | TypeScript | `array` `hash table` `two pointers` `sorting` |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | TypeScript | `array` `prefix sum`|
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | TypeScript | `two pointers` `string`|
 | 1860 | [Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/) | Medium | TypeScript | `math` `simulation`|
+
+## 2000-2499
+
+| # | Problem | Difficulty | Language | Topics |
+| - | ------- | ---------- | -------- | ------ |
 | 2057 | [Smallest Index with Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/) | Easy | JavaScript | `array` |
 | 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | Easy | TypeScript | `array` `string` |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Easy | TypeScript | `array` `hash table` |
 | 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/s) | Medium | TypeScript | `array` `two pointers` `binary search` `sorting` |
 | 2390 | [Removing Stars from a String](https://leetcode.com/problems/removing-stars-from-a-string/) | Medium | TypeScript | `string` `stack` `simulation` |
 | 2486 | [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/) | Medium | TypeScript | `two pointers` `string` `greedy` |
+
+## 2500-2999
+
+| # | Problem | Difficulty | Language | Topics |
+| - | ------- | ---------- | -------- | ------ |
 | 2605 | [Form Smallest Number from Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | Easy | TypeScript | `array` `hash table` `enumeration` |
 | 2619 | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/) | Easy | JavaScript ||
 | 2620 | [Counter](https://leetcode.com/problems/counter/) | Easy | JavaScript ||
@@ -82,4 +107,9 @@ Solving problems with code is a fun hobby, and LeetCode has thousands to choose 
 | 2704 | [To Be or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | Easy | JavaScript ||
 | 2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/) | Easy | JavaScript ||
 | 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises/) | Medium | TypeScript ||
+
+## 3000-3500
+
+| # | Problem | Difficulty | Language | Topics |
+| - | ------- | ---------- | -------- | ------ |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | Easy | TypeScript | `string` |
