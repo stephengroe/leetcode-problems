@@ -20,6 +20,7 @@ You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/)
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | TypeScript | `array` `math` |
 | 0068 | [Text Justification](https://leetcode.com/problems/text-justification/) | Hard | TypeScript | `array` `string` `simulation` |
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | Medium | JavaScript | `array` `binary search` `matrix` |
+| 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | TypeScript | `array` `two pointers` `sorting` |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | JavaScript | `array` `dynamic programming` |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | JavaScript | `two pointers` `string` |
 | 0131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Medium | TypeScript | `string` `dynamic programming` `backtracking` |
