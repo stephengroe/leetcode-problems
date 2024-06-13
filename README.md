@@ -91,6 +91,7 @@ You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/)
 
 | # | Problem | Difficulty | Language | Topics |
 | - | ------- | ---------- | -------- | ------ |
+| 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone) | Easy | TypeScript | `array` `greedy` `sorting` |
 | 2057 | [Smallest Index with Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/) | Easy | JavaScript | `array` |
 | 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | Easy | TypeScript | `array` `string` |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Easy | TypeScript | `array` `hash table` |
