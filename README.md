@@ -54,6 +54,7 @@ You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/)
 | 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | TypeScript | `array` `prefix sum` |
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | Easy | TypeScript | `string` `string matching` |
 | 0846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | Medium | TypeScript | `array` `hash table` `greedy` `sorting` |
+| 0945 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | Medium | TypeScript | `array` `greedy` `sorting` `counting` |
 | 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | TypeScript | `array` `math` `divide and conquer` `geometry` `sorting` `heap (priority queue)` `quickselect` |
 | 0974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium | TypeScript | `array` `hash table` `prefix sum` |
 | 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | TypeScript | `array` `hash table` `graph` |
