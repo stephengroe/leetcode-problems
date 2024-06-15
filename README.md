@@ -41,6 +41,7 @@ You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/)
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | TypeScript | `two pointers` `string` `dynamic programming` |
 | 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy | TypeScript | `hash table` `string` `greedy` |
 | 0448 | [Find all Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | JavaScript | `array` `hash table` |
+| 0482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | Easy | TypeScript | `string` |
 
 ## 500-999
 
