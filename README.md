@@ -47,6 +47,7 @@ You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/)
 
 | # | Problem | Difficulty | Language | Topics |
 | - | ------- | ---------- | -------- | ------ |
+| 0502 | [IPO](https://leetcode.com/problems/ipo/) | Medium | TypeScript | `array` `greedy` `sorting` `heap (priority queue)` |
 | 0523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | TypeScript | `array` `hash table` `math` `prefix sum` |
 | 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | TypeScript | `array` `greedy` |
 | 0643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | TypeScript | `array` `sliding window` |
