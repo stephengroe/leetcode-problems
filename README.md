@@ -34,6 +34,7 @@ You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/)
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | TypeScript | `array` `prefix sum` |
 | 0260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | Medium | TypeScript | `array` `bit manipulation` |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | TypeScript | `hash table` `string` `sorting`|
+| 0330 | [Patching Array](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium | TypeScript | `array` `greedy` |
 | 0334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium | TypeScript | `array` `greedy` |
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | TypeScript | `string` `two pointers` |
 | 0345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | TypeScript | `string` `two pointers` |
