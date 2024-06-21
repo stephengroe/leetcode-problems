@@ -27,6 +27,7 @@ You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/)
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | TypeScript | `array` `bit manipulation` |
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | TypeScript | `two pointers` `string` |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | JavaScript | `array` `hash table` `divide and conquer` `sorting` `counting` |
+| 0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | SQL | `database` |
 | 0202 | [Happy Number](https://leetcode.m/problems/happy-number/) | Easy | TypeScript | `hash table` `math` `two pointers` |
 | 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | TypeScript | `hash table` `string` |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | JavaScript | `array` `hash table` `sorting` |
