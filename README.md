@@ -72,6 +72,7 @@ You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/)
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | TypeScript | `array` `binary search` `sliding window` `prefix sum` |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | Easy | TypeScript | `array` `greedy` |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | Easy | TypeScript | `array` `sorting` `counting list` |
+| 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | Medium | TypeScript | `array` `sliding window` |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | TypeScript | `math` `string` |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | Easy | TypeScript | `string` |
 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | Easy | TypeScript | `array` `hash table` `sorting` `counting sort` |
