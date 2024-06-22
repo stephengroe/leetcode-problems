@@ -81,6 +81,7 @@ You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/)
 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | Easy | TypeScript | `array` `hash table` `sorting` `counting sort` |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | TypeScript | `array` `hash table` |
 | 1208 | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/) | Medium | TypeScript | `string` `binary search` `sliding window` `prefix sum` |
+| 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Medium | TypeScript | `array` `hash table` `math` `sliding window` |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | TypeScript | `math` |
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium | TypeScript | `string` `bit manipulation` |
 | 1431 | [Kid With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy | TypeScript | `array` |
