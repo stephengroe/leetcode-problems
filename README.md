@@ -64,7 +64,8 @@ You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/)
 | 0826 | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | Medium | TypeScript | `array` `two pointers` `binary search` `greedy` `sorting` |
 | 0945 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | Medium | TypeScript | `array` `greedy` `sorting` `counting` |
 | 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | TypeScript | `array` `math` `divide and conquer` `geometry` `sorting` `heap (priority queue)` `quickselect` |
-| 0974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium | TypeScript | `array` `hash table` `prefix sum` |
+| 0974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium | TypeScript | `array` `bit manipulation` `queue` `sliding window` `prefix sum` |
+| 0995 | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | Hard | TypeScript | `array` `hash table` `graph` |
 | 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | TypeScript | `array` `hash table` `graph` |
 
 ## 1000-1499
