@@ -75,6 +75,7 @@ You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/)
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | Easy | TypeScript | `array` `hash table` `string` |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | TypeScript | `array` `binary search` `sliding window` `prefix sum` |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | Easy | TypeScript | `array` `greedy` |
+| 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | Medium | TypeScript | `tree` `depth-first search` `binary search tree` `binary tree` |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | Easy | TypeScript | `array` `sorting` `counting list` |
 | 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | Medium | TypeScript | `array` `sliding window` |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | TypeScript | `math` `string` |
