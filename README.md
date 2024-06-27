@@ -59,6 +59,7 @@ You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/)
 | 0633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | Medium | TypeScript | `math` `two pointers` `binary search` |
 | 0648 | [Replace Words](https://leetcode.com/problems/replace-words/) | Medium | TypeScript | `array` `hash table` `string` `trie` |
 | 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | TypeScript | `array` `prefix sum` |
+| 0748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | Easy | TypeScript | `array` `hash table` `string` |
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | Easy | TypeScript | `string` `string matching` |
 | 0846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | Medium | TypeScript | `array` `hash table` `greedy` `sorting` |
 | 0826 | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | Medium | TypeScript | `array` `two pointers` `binary search` `greedy` `sorting` |
