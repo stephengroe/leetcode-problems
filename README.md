@@ -114,6 +114,7 @@ You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/)
 | 2057 | [Smallest Index with Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/) | Easy | JavaScript | `array` |
 | 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | Easy | TypeScript | `array` `string` |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Easy | TypeScript | `array` `hash table` |
+| 2285 | [Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/) | Medium | TypeScript | `greedy` `graph` `sorting` `heap (priority queue)` |
 | 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/s) | Medium | TypeScript | `array` `two pointers` `binary search` `sorting` |
 | 2390 | [Removing Stars from a String](https://leetcode.com/problems/removing-stars-from-a-string/) | Medium | TypeScript | `string` `stack` `simulation` |
 | 2486 | [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/) | Medium | TypeScript | `two pointers` `string` `greedy` |
