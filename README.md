@@ -113,6 +113,7 @@ You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/)
 | 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone) | Easy | TypeScript | `array` `greedy` `sorting` |
 | 2057 | [Smallest Index with Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/) | Easy | JavaScript | `array` |
 | 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | Easy | TypeScript | `array` `string` |
+| 2191 | [All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium | TypeScript | `depth-first search` `breadth-first search` `graph` `topological sort` |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Easy | TypeScript | `array` `hash table` |
 | 2285 | [Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/) | Medium | TypeScript | `greedy` `graph` `sorting` `heap (priority queue)` |
 | 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/s) | Medium | TypeScript | `array` `two pointers` `binary search` `sorting` |
