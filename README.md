@@ -118,6 +118,7 @@ You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/)
 | 2285 | [Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/) | Medium | TypeScript | `greedy` `graph` `sorting` `heap (priority queue)` |
 | 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/s) | Medium | TypeScript | `array` `two pointers` `binary search` `sorting` |
 | 2390 | [Removing Stars from a String](https://leetcode.com/problems/removing-stars-from-a-string/) | Medium | TypeScript | `string` `stack` `simulation` |
+| 2404 | [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/) | Easy | TypeScript | `array` `hash table` `counting` |
 | 2486 | [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/) | Medium | TypeScript | `two pointers` `string` `greedy` |
 
 ## 2500-2999
