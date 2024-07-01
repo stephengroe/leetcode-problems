@@ -98,6 +98,7 @@ You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/)
 
 | # | Problem | Difficulty | Language | Topics |
 | - | ------- | ---------- | -------- | ------ |
+| 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | Easy | TypeScript | `array` |
 | 1552 | [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) | Medium | TypeScript | `array` `binary search` `sorting` |
 | 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard | TypeScript | `union find` `graph` |
 | 1608 | [Special Array with X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | Easy | TypeScript | `array` `binary search` `sorting` |
