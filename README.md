@@ -41,6 +41,7 @@ You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/)
 | 0334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium | TypeScript | `array` `greedy` |
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | TypeScript | `string` `two pointers` |
 | 0345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | TypeScript | `string` `two pointers` |
+| 0350 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | TypeScript | `array` `hash table` `two pointers` `binary search` `sorting` |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | TypeScript | `hash table` `string` `counting` |
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | TypeScript | `two pointers` `string` `dynamic programming` |
 | 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy | TypeScript | `hash table` `string` `greedy` |
