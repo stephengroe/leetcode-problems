@@ -131,6 +131,7 @@ You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/)
 
 | # | Problem | Difficulty | Language | Topics |
 | - | ------- | ---------- | -------- | ------ |
+| 2582 | [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/) | Easy | TypeScript | `math` `simulation` |
 | 2605 | [Form Smallest Number from Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | Easy | TypeScript | `array` `hash table` `enumeration` |
 | 2619 | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/) | Easy | JavaScript ||
 | 2620 | [Counter](https://leetcode.com/problems/counter/) | Easy | JavaScript ||
