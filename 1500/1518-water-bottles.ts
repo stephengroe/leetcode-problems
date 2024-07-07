@@ -22,5 +22,5 @@ function numWaterBottles1(numBottles: number, numExchange: number): number {
 // Mathematical one-liner with optimized time
 // Time: O(1), space: O(1)
 function numWaterBottles2(numBottles: number, numExchange: number): number {
-  return numBottles + (numBottles - 1) / (numExchange - 1) | 0;
+  return numBottles + Math.floor((numBottles - 1) / (numExchange - 1));
 }
