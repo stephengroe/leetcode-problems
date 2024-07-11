@@ -81,6 +81,7 @@ You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/)
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | Easy | TypeScript | `array` `sorting` `counting list` |
 | 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | Medium | TypeScript | `array` `sliding window` |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | TypeScript | `math` `string` |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | TypeScript | `string` `stack` |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | Easy | TypeScript | `string` |
 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | Easy | TypeScript | `array` `hash table` `sorting` `counting sort` |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | TypeScript | `array` `hash table` |
