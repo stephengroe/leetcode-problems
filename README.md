@@ -124,6 +124,7 @@ You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/)
 | 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone) | Easy | TypeScript | `array` `greedy` `sorting` |
 | 2057 | [Smallest Index with Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/) | Easy | JavaScript | `array` |
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | TypeScript | `linked list` |
+| 2096 | [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium | TypeScript | `string` `tree` `depth-first search` `binary tree` |
 | 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | Easy | TypeScript | `array` `string` |
 | 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | Medium | TypeScript | `linked list` `simulation` |
 | 2191 | [All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium | TypeScript | `depth-first search` `breadth-first search` `graph` `topological sort` |
