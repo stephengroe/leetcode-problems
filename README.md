@@ -104,6 +104,7 @@ You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/)
 | - | ------- | ---------- | -------- | ------ |
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium | TypeScript | `array` `greedy` `sorting` |
 | 1518 | [Water Bottles](https://leetcode.com/problems/water-bottles/) | Easy | TypeScript | `math` `simulation` |
+| 1530 | [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | Medium | TypeScript | `tree` `depth-first search` `binary tree` |
 | 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | Easy | TypeScript | `array` |
 | 1552 | [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) | Medium | TypeScript | `array` `binary search` `sorting` |
 | 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard | TypeScript | `union find` `graph` |
