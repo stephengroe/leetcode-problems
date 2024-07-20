@@ -110,6 +110,7 @@ You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/)
 | 1552 | [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) | Medium | TypeScript | `array` `binary search` `sorting` |
 | 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard | TypeScript | `union find` `graph` |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | Easy | TypeScript | `array` `string` `stack` |
+| 1605 | [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | Medium | TypeScript | `array` `greedy` `matrix` |
 | 1608 | [Special Array with X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | Easy | TypeScript | `array` `binary search` `sorting` |
 | 1679 | [Max Number of K Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | Medium | TypeScript | `array` `hash table` `two pointers` `sorting` |
 | 1701 | [Average Waiting Time](https://leetcode.com/problems/average-waiting-time/) | Medium | TypeScript | `array` `simulation`|
