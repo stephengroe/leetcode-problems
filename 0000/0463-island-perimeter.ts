@@ -12,17 +12,17 @@ function islandPerimeter(grid: number[][]): number {
 			if (grid[i][j] === 1) {
 				total += 4;
 
-                // Check adjacentEdges for left
-                if (adjacentEdges.has(`${i},${j-1}`)) {
-                    total -= 2;
-                }
-                // Check adjacentEdges for top
-                if (adjacentEdges.has(`${i-1},${j}`)) {
-                    total -= 2;
-                }
-                
-                // Add self to adjacentEdges
-                adjacentEdges.add(`${i},${j}`);
+        // Check adjacentEdges for left
+        if (adjacentEdges.has(`${i},${j-1}`)) {
+          total -= 2;
+        }
+        // Check adjacentEdges for top
+        if (adjacentEdges.has(`${i-1},${j}`)) {
+          total -= 2;
+        }
+        
+        // Add self to adjacentEdges
+        adjacentEdges.add(`${i},${j}`);
 			}
 		}
 	}
