@@ -1,8 +1,6 @@
 # LeetCode Problems
 
-I like solving problems with code, and LeetCode has thousands to choose from! Most of these are daily challenges, with a few other random ones that interest me.
-
-You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/).
+I like solving problems with code, and LeetCode has thousands to choose from! You can also see my [full LeetCode profile](https://leetcode.com/u/stephengroe/).
 
 ## 000-499
 
