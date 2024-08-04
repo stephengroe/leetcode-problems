@@ -155,8 +155,8 @@ I like solving problems with code, and LeetCode has thousands to choose from! Yo
 | 2665 | [Counter II](https://leetcode.com/problems/counter-ii/) | Easy | JavaScript ||
 | 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) | Easy | JavaScript | |
 | 2704 | [To Be or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | Easy | JavaScript ||
-| 2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/) | Easy | JavaScript ||
 | 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises/) | Medium | TypeScript ||
+| 2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/) | Easy | JavaScript ||
 | 2751 | [Robot Collisions](https://leetcode.com/problems/robot-collisions/) | Hard | TypeScript | `array` `stack` `sorting` `simulation` |
 
 ## 3000+
