@@ -54,17 +54,17 @@ I like solving problems with code, and LeetCode has thousands to choose from! Yo
 | 0502 | [IPO](https://leetcode.com/problems/ipo/) | Medium | TypeScript | `array` `greedy` `sorting` `heap (priority queue)` |
 | 0523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Hard | TypeScript | `array` `hash table` `math` `prefix sum` |
 | 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | TypeScript | `array` `greedy` |
-| 0643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | TypeScript | `array` `sliding window` |
 | 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | TypeScript | `array` `greedy` |
 | 0633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | Medium | TypeScript | `math` `two pointers` `binary search` |
+| 0643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | TypeScript | `array` `sliding window` |
 | 0648 | [Replace Words](https://leetcode.com/problems/replace-words/) | Medium | TypeScript | `array` `hash table` `string` `trie` |
 | 0657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | Easy | TypeScript | `string` `simulation` |
 | 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | TypeScript | `array` `prefix sum` |
 | 0726 | [Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | Hard | TypeScript | `hash table` `string` `stack` `sorting` |
 | 0748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | Easy | TypeScript | `array` `hash table` `string` |
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | Easy | TypeScript | `string` `string matching` |
-| 0846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | Medium | TypeScript | `array` `hash table` `greedy` `sorting` |
 | 0826 | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | Medium | TypeScript | `array` `two pointers` `binary search` `greedy` `sorting` |
+| 0846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | Medium | TypeScript | `array` `hash table` `greedy` `sorting` |
 | 0945 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | Medium | TypeScript | `array` `greedy` `sorting` `counting` |
 | 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | TypeScript | `array` `math` `divide and conquer` `geometry` `sorting` `heap (priority queue)` `quickselect` |
 | 0974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium | TypeScript | `array` `bit manipulation` `queue` `sliding window` `prefix sum` |
@@ -82,10 +82,10 @@ I like solving problems with code, and LeetCode has thousands to choose from! Yo
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | Easy | TypeScript | `array` `sorting` `counting list` |
 | 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | Medium | TypeScript | `array` `sliding window` |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | TypeScript | `math` `string` |
-| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | TypeScript | `string` `stack` |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | Easy | TypeScript | `string` |
 | 1110 | [Delete Nodes and Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | Medium | TypeScript | `array` `hash table` `tree` `depth-first search` `binary tree` |
 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | Easy | TypeScript | `array` `hash table` `sorting` `counting sort` |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | TypeScript | `string` `stack` |
 | 1207 | [Unique Number of Occurrences](https:/hg/leetcode.com/problems/unique-number-of-occurrences/) | Easy | TypeScript | `array` `hash table` |
 | 1208 | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/) | Medium | TypeScript | `string` `binary search` `sliding window` `prefix sum` |
 | 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Medium | TypeScript | `array` `hash table` `math` `sliding window` |
