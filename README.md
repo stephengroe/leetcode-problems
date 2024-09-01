@@ -21,6 +21,7 @@ I like solving problems with code, and LeetCode has thousands to choose from! Yo
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | TypeScript | `array` `two pointers` `sorting` |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | JavaScript | `array` `dynamic programming` |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | JavaScript | `two pointers` `string` |
+| 0130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Medium | TypeScript | `array` `depth-first search` `breadth-first search` `union find` `matrix` |
 | 0131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Medium | TypeScript | `string` `dynamic programming` `backtracking` |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | TypeScript | `array` `bit manipulation` |
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | TypeScript | `two pointers` `string` |
