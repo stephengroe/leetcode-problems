@@ -19,6 +19,7 @@ I like solving problems with code, and LeetCode has thousands to choose from! Yo
 | 0068 | [Text Justification](https://leetcode.com/problems/text-justification/) | Hard | TypeScript | `array` `string` `simulation` |
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | Medium | JavaScript | `array` `binary search` `matrix` |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | TypeScript | `array` `two pointers` `sorting` |
+| 0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | TypeScript | `tree` `depth-first search` `breadth-first search` `binary tree` |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | JavaScript | `array` `dynamic programming` |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | JavaScript | `two pointers` `string` |
 | 0130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Medium | TypeScript | `array` `depth-first search` `breadth-first search` `union find` `matrix` |
