@@ -2,7 +2,7 @@
 // Time: O(n + m), space: O(n + m)
 function mostCommonWord(paragraph: string, banned: string[]): string {
   // Split words
-  const words = paragraph.slice().toLowerCase().split(/\W/);
+  const words = paragraph.toLowerCase().split(/\W/);
   // Build frequency map
   const frequencyMap = new Map<string, number>();
   // Iterate over words
@@ -29,4 +29,29 @@ function mostCommonWord(paragraph: string, banned: string[]): string {
   }
   // Return most common word
   return mostCommonWord;
+};
+
+// Second solution, optimized
+function mostCommonWord2(paragraph: string, banned: string[]): string {
+  const words = paragraph.toLowerCase().split(/[^a-z]+/);
+  const frequencyMap = new Map<string, number>();
+  let maxCount = -Infinity;
+  let result = '';
+  const bannedWords = new Set(banned); // For O(1) lookup
+
+  for (const word of words) {
+      // Skip empty and banned words
+      if (!word.trim() || bannedWords.has(word)) continue;
+      // Update frequency map
+      const frequency = (frequencyMap.get(word) || 0) + 1;
+      frequencyMap.set(word, frequency);
+
+      // Find max
+      if (frequency > maxCount) {
+          maxCount = frequency;
+          result = word;
+      }
+  }
+
+  return result;
 };
