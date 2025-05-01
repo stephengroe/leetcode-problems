@@ -64,6 +64,7 @@ I like solving problems with code, and LeetCode has thousands to choose from! Yo
 | 0726 | [Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | Hard | TypeScript | `hash table` `string` `stack` `sorting` |
 | 0748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | Easy | TypeScript | `array` `hash table` `string` |
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | Easy | TypeScript | `string` `string matching` |
+| 0819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | Easy | TypeScript | `array` `hash table` `string` `counting` |
 | 0826 | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | Medium | TypeScript | `array` `two pointers` `binary search` `greedy` `sorting` |
 | 0846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | Medium | TypeScript | `array` `hash table` `greedy` `sorting` |
 | 0945 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | Medium | TypeScript | `array` `greedy` `sorting` `counting` |
